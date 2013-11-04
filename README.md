@@ -25,4 +25,4 @@ You can add any type of assets to support your proposal inside your folder.
 When a talk gets accepted we will merge it into master.
 
 Each talk should be 30 minutes in length and will be followed by a 30 minute break.
-Proposals will be accepted until December 1st, 2013.
+Proposals will be accepted until December 15th, 2013.
